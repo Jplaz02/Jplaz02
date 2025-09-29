@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hey, I'm John — welcome to Syntax Plaza
 
-<!--
-**Jplaz02/Jplaz02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent CS graduate relearning with intention.  
+I used to code without really understanding — now I'm learning with clarity, curiosity, and care.
 
-Here are some ideas to get you started:
+Syntax Plaza is my space to grow, experiment, and document the process.  
+I believe progress takes time, and I’m okay with that.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 What I'm About
+
+- Learning deeply, not just memorizing
+- Building things I understand and enjoy
+- Staying curious about how things work
+- Growing at my own pace, with purpose
+
+---
+
+## 🧰 Tech Stack & Learning Path
+
+I'm still learning, but here's the direction I'm taking:
+
+- **Frontend**: Starting with the basics — currently focused on JavaScript fundamentals  
+  → Planning to explore **React** and **Next.js** as I grow
+
+- **Automation**: Interested in **n8n** for workflow automation and integration  
+  → Not there yet, but excited to learn how it fits into full-stack systems
+
+- **Backend & Tools**: Open to exploring whatever helps me build better — whether it's Node.js, Express, or something new
+
+- **Other Tools**: Git, GitHub, VS Code — and anything that supports clarity and creativity
+
+I'm learning at my own pace, with intention.  
+I’m open to other stacks when the time, need, and learning support align.
+
+---
+
+## 📊 GitHub Stats
+
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jplaz02&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect
+
+- 📧 Email: jplaza2025@gmail.com
+- 🏷️ GitHub: [@Jplaz02](https://github.com/Jplaz02)
+
+---
+
+> 🌿 “I’m here to learn, build, and become someone I’m proud of.”
