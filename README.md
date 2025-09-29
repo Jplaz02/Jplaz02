@@ -1,4 +1,4 @@
-# 👋 Hey, I'm John — welcome to Syntax Plaza
+# 👋 Hey, I'm JL — Welcome to Syntax Plaza
 
 I'm a recent CS graduate relearning with intention.  
 I used to code without really understanding — now I'm learning with clarity, curiosity, and care.
@@ -6,6 +6,8 @@ I used to code without really understanding — now I'm learning with clarity, c
 Syntax Plaza is my space to grow, experiment, and document the process.  
 I believe progress takes time, and I’m okay with that.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jplaz02&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=Jplaz02&theme=radical&hide_border=true)
 ---
 
 ## 🌱 What I'm About
@@ -34,13 +36,6 @@ I'm still learning, but here's the direction I'm taking:
 I'm learning at my own pace, with intention.  
 I’m open to other stacks when the time, need, and learning support align.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jplaz02&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jplaz02&theme=radical&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://streak-stats.demolab.com?user=Jplaz02&theme=radical&hide_border=true)
 ---
 
 ## 📫 Connect
