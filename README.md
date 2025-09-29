@@ -8,7 +8,7 @@ I believe progress takes time, and I’m okay with that.
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jplaz02&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img width="50%" src="https://streak-stats.demolab.com?user=Jplaz02&theme=radical&hide_border=true" />
+  <img width="51%" src="https://streak-stats.demolab.com?user=Jplaz02&theme=radical&hide_border=true" />
 </div>
 
 ---
