@@ -38,7 +38,7 @@ I’m open to other stacks when the time, need, and learning support align.
 
 ## 📊 GitHub Stats
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jplaz02&show_icons=true&theme=default)
+https://github-readme-stats.vercel.app/api?username=Jplaz02&theme=radical&show_icons=true&hide_border=true&count_private=true
 
 ---
 
