@@ -6,7 +6,11 @@ I used to code without really understanding — now I'm learning with clarity, c
 Syntax Plaza is my space to grow, experiment, and document the process.  
 I believe progress takes time, and I’m okay with that.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jplaz02&theme=radical&show_icons=true&hide_border=true&count_private=true)![GitHub Stats](https://streak-stats.demolab.com?user=Jplaz02&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jplaz02&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=Jplaz02&theme=radical&hide_border=true" />
+</div>
+
 ---
 
 ## 🌱 What I'm About
