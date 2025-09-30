@@ -7,10 +7,9 @@ I used to code without really understanding — now I'm learning with clarity, c
 I believe progress takes time — and I’m okay with that.
 
 ---
-
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jplaz02&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img width="51%" src="https://streak-stats.demolab.com?user=Jplaz02&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jplaz02&theme=radical&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=Jplaz02&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Jplaz02&theme=radical&hide_border=false)" />
 </div>
 
 ---
