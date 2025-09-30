@@ -8,8 +8,8 @@ I believe progress takes time — and I’m okay with that.
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jplaz02&theme=radical&show_icons=true&hide_border=false&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=Jplaz02&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Jplaz02&theme=radical&hide_border=false)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jplaz02&theme=radical&show_icons=true&hide_border=false&count_private=true" />
+  <img width="51%" src="https://streak-stats.demolab.com?user=Jplaz02&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Jplaz02&theme=radical&hide_border=false)" />
 </div>
 
 ---
@@ -39,10 +39,6 @@ I'm still learning, but here's the direction I'm taking:
 
 I'm learning at my own pace, with intention.  
 Open to other stacks when the time, need, and learning support align.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jplaz02&theme=radical&show_icons=true&hide_border=true&layout=compact" />
-</div>
 
 ---
 
