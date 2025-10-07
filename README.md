@@ -27,8 +27,8 @@ I believe progress takes time — and I’m okay with that.
 
 I'm still learning, but here's the direction I'm taking:
 
-- **Frontend**: Starting with the basics — currently focused on JavaScript fundamentals  
-  → Planning to explore **React** and **Next.js** as I grow
+- **Frontend**: Starting with the basics — currently focused on learning **React**  
+  → Planning to explore **Next.js** as I grow
 
 - **Automation**: Curious about **n8n** for workflow automation and integration  
   → Not there yet, but excited to learn how it fits into full-stack systems
