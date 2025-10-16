@@ -49,4 +49,4 @@ Open to other stacks when the time, need, and learning support align.
 
 ---
 
-> 🌿 *“I’m here to learn, build, and become someone I’m proud of.”*
+> 🌿 *“I’m here to learn, build, and become someone I’m proud of”*
